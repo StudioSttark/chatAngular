@@ -9,15 +9,20 @@
 * Bower
 
 ### NPM
-[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+<br>
 Instalando NPM dentro do diretório
+<br>
 `npm install`
 
 ### Bower
 Instalação do Bower
+<br>
 `npm install -g bower`
 
 ### Gulp
 Instalação do Gulp
+<br>
 `npm install gulp-cli -g`
+<br>
 `npm install gulp -D`
